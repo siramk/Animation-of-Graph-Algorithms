@@ -24,12 +24,12 @@ and then run the program with pyhton3 bfs.py
 #### NOTE: A default graph is already placed in input_bfs.txt
 
 ### Example of input:
-4        ------->no.of vertices
-0 1 1 1
-0 0 1 0  ------->adjacency matrix
-0 1 0 0
-0 0 1 0
-0        ------->start vertex
+4        ------->no.of vertices <br>
+0 1 1 1<br>
+0 0 1 0  ------->adjacency matrix <br>
+0 1 0 0 <br>
+0 0 1 0 <br>
+0        ------->start vertex <br>
 
 
 ## Readme for DFS(Depth For Search)
@@ -46,13 +46,13 @@ and then run the program with pyhton3 dfs.py
 #### NOTE: A default graph is already placed in input_dfs.txt
 
 ### Example of input:
-5          ------->no.of vertices
-0 1 1 0 0
-1 0 1 0 0  
-1 1 0 1 1  ------->adjacency matrix
-0 0 1 0 1
-0 0 1 1 0
-2          ------->start vertex
+5          ------->no.of vertices <br>
+0 1 1 0 0 <br>
+1 0 1 0 0  <br>
+1 1 0 1 1  ------->adjacency matrix <br>
+0 0 1 0 1 <br>
+0 0 1 1 0 <br>
+2          ------->start vertex <br>
 
 
 ## Readme for Prims algorithm
@@ -69,9 +69,9 @@ and then run the program with pyhton3 min_span_tree.py
 #### NOTE: A default graph is already placed in input_mst.txt
 
 #### Example of input:
-5         --------->no.of vertices
-0 2 7 0 0
-2 0 3 8 5
-7 3 0 1 0 --------->adjacency matrix
-0 8 1 0 4
-0 5 0 4 0
+5         --------->no.of vertices  <br>
+0 2 7 0 0 <br>
+2 0 3 8 5 <br>
+7 3 0 1 0 --------->adjacency matrix <br>
+0 8 1 0 4 <br>
+0 5 0 4 0 <br>
